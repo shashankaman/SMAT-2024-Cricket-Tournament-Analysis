@@ -1,4 +1,13 @@
-## 8️⃣ Cricket Tournament Analysis
+## Cricket Tournament Analysis
+
+### 📌 About This Project
+
+This project applies data analytics to sports data, transforming raw cricket match statistics into meaningful insights about team and player performance. The objective was to demonstrate analytical thinking and storytelling using non-business datasets.
+
+The analysis focuses on performance comparison, win trends, and player impact, presented through intuitive visuals and metrics.
+
+This project showcases my ability to analyze complex datasets, identify patterns, and communicate insights clearly.
+
 
 ### 📌 Business Problem (WHY)
 
@@ -38,4 +47,5 @@ Sports analysts and fans often struggle to interpret large volumes of match data
 ### 🚀 Business Impact
 
 Demonstrates the application of analytics in sports, showcasing data storytelling and comparative analysis skills.
+
 
